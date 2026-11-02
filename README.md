@@ -1,6 +1,6 @@
 # Jawad Mehmood Khan Qayyum
 
-Software engineer in Copenhagen. Analyst at [Netcompany](https://www.netcompany.com) from 1 December 2026. Founder of [Gathr Solutions](https://gathrsolutions.dk) and [Weft](https://weft.azurewebsites.net). MSc student in Software Engineering at Aalborg University Copenhagen.
+Software engineer in Copenhagen. Analyst at [Netcompany](https://www.netcompany.com). Founder of [Gathr Solutions](https://gathrsolutions.dk) and [Weft](https://weft.azurewebsites.net). MSc student in Software Engineering at Aalborg University Copenhagen.
 
 [Portfolio](https://jmkq0056.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jawad-mehmood-khan-qayyum/) · [Email](mailto:Jawa0056@gmail.com)
 
@@ -25,7 +25,7 @@ Most of my code lives in private repositories, because it runs products in produ
 
 ## Now
 
-- Starting at Netcompany on 1 December 2026
+- Analyst at Netcompany
 - MSc in Software Engineering at Aalborg University Copenhagen, BSc weighted GPA 8.8, bachelor project graded 12
 - Teaching assistant in Database Systems at AAU, the second course I have taught there
 - Running Gathr Solutions and building Weft
