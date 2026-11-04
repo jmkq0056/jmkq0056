@@ -32,6 +32,14 @@ Most of my code lives in private repositories, because it runs products in produ
 
 ## What I work with
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,rust,ts,js,py,dart,swift,c,react,flutter,nodejs,express,mongodb,postgres,supabase,azure,gcp,docker,githubactions,git,linux&perline=12" alt="C#, .NET, Java, Rust, TypeScript, JavaScript, Python, Dart, Swift, C, React, Flutter, Node.js, Express, MongoDB, PostgreSQL, Supabase, Azure, Google Cloud, Docker, GitHub Actions, Git and Linux" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,js,py,dart,swift,c,bash,rust,html,css,react,nextjs,tailwind,flutter,nodejs,express,mongodb,postgres,supabase,redis,azure,gcp,docker,githubactions,git,linux,wordpress&perline=10" alt="C#, .NET, Java, TypeScript, JavaScript, Python, Dart, Swift, C, Bash, Rust, HTML, CSS, React, Next.js, Tailwind CSS, Flutter, Node.js, Express, MongoDB, PostgreSQL, Supabase, Redis, Azure, Google Cloud, Docker, GitHub Actions, Git, Linux and WordPress" />
 
-Also SQL, Matrix, Entra ID, Bicep, Playwright, Power BI, and agentic development with Claude Code.
+- **Languages:** C#, Java, TypeScript, JavaScript, Python, Dart, Swift, C, SQL, Bash, Rust
+- **Mobile:** Flutter, React Native, iOS, Android, offline first, state management
+- **Web and backend:** .NET 8, ASP.NET Core, EF Core, Node.js, Express, React, Next.js, Tailwind CSS, REST APIs, Socket.IO, WordPress
+- **Data:** SQL databases, PostgreSQL, Azure SQL, Supabase, MongoDB, Redis, Power BI
+- **Cloud and DevOps:** Azure, Entra ID, OpenID Connect, Bicep, Google Cloud, Docker, GitHub Actions, CI/CD, Git, Linux
+- **Testing:** Playwright, Jest, xUnit, unit and integration tests
+- **AI:** agentic development with Claude Code, AI agents, prompt engineering, machine learning
+- **Engineering:** system design, object oriented design, compilers, agile teamwork, UI/UX
+- **Support and operations:** Windows, macOS, Linux, troubleshooting, TCP/IP, DNS, VPN, technical SEO
